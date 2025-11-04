@@ -2,8 +2,8 @@
 
 ```bash
 # Clone repo
-git clone https://github.com/Gabe-S5/calendar-project
-cd calendar-project
+git clone https://github.com/Gabe-S5/calendarProject.git
+cd calendarProject
 
 # Install dependencies
 npm install
